@@ -6,5 +6,5 @@ A beginner data scientist who enjoys learning new things to become better than b
 - ⚡ Fun fact: an ordinary university student
   
 ## 📫 How to reach me:
-- @halimfarrelvalentio
+- halimfarrelvalentio@gmail.com
 - <a href="https://www.linkedin.com/in/farrel-valentio-54a434126/">LinkedIn</a>
